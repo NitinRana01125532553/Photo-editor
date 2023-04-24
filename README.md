@@ -5,5 +5,9 @@ This is a photo editor i made to understand js better.
 Feel Free to make some changes
 
 
-https://user-images.githubusercontent.com/63962929/234006164-dda5c4bd-d1b1-4de1-bb3a-e2115b533f22.mp4
+
+
+
+
+https://user-images.githubusercontent.com/63962929/234006716-3221cc4c-f7b9-466c-a9d4-a9b27eab84a9.mp4
 
